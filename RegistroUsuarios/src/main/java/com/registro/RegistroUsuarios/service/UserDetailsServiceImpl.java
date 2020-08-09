@@ -11,7 +11,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.registro.RegistroUsuarios.RegistroUsuariosApplication;
+//import com.registro.RegistroUsuarios.RegistroUsuariosApplication;
 import com.registro.RegistroUsuarios.entities.Authority;
 import com.registro.RegistroUsuarios.repository.UserRepository;
 
